@@ -139,12 +139,12 @@ TextureImporter:
       name: BirdHero_0
       rect:
         serializedVersion: 2
-        x: 8
+        x: 2
         y: 30
-        width: 113
+        width: 119
         height: 67
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: BirdHero_1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 30
-        width: 118
-        height: 67
+        x: 121
+        y: 4
+        width: 127
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: BirdHero_2
       rect:
         serializedVersion: 2
-        x: 264
-        y: 30
-        width: 113
-        height: 67
+        x: 247
+        y: 21
+        width: 130
+        height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,6 +194,27 @@ TextureImporter:
       bones: []
       spriteID: 8dc3aeeac3e8fe741b72a37a2ec8f7bf
       internalID: -174545949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BirdHero_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 103
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbf81e75c6338546a30cb6e9b3c40a6
+      internalID: -464333527
       vertices: []
       indices: 
       edges: []
@@ -212,6 +233,7 @@ TextureImporter:
       BirdHero_0: -1306904976
       BirdHero_1: 245910014
       BirdHero_2: -174545949
+      BirdHero_3: -464333527
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
